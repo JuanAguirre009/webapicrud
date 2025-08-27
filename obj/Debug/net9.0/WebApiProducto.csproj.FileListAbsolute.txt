@@ -154,3 +154,4 @@ C:\Users\JUAN JOSE\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\
 C:\Users\JUAN JOSE\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\WebAPICRUD\WebAPIProducto\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\JUAN JOSE\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\WebAPICRUD\WebAPIProducto\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\JUAN JOSE\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\WebAPICRUD\WebAPIProducto\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JUAN JOSE\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\Desktop\WebAPICRUD\WebAPIProducto\obj\Debug\net9.0\WebApiProducto.sourcelink.json
